@@ -1,0 +1,35 @@
+html {
+  background: url(https://cdn.pixabay.com/photo/2015/11/07/11/08/truck-1030846_960_720.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  text-align: center;
+}
+
+.headingtxt{
+  position: relative;
+  text-align: center;
+}
+
+/***
+.button{
+  width: 100%;
+  transition-duration: 0.4s;
+}
+.button:hover {
+  background-color: #00FFFF; /* Green */
+  color: white;
+}
+*****/
